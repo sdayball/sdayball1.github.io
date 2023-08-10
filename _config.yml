@@ -115,7 +115,7 @@ author:
      # url: "mailto:sdayball@yahoo.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sdayball/sdayball.github.io"
+      url: "https://github.com/sdayball/sdayball1.github.io"
    
 
 # Site Footer
@@ -258,7 +258,7 @@ compress_html:
 collections:
   docs:
     output: true
-    permalink: sdayball/sdayball.github.io
+    permalink: sdayball/sdayball1.github.io
   recipes:
     output: true
     permalink: /:collection/:path/
@@ -272,16 +272,16 @@ collections:
 # Defaults
 defaults:
   #- _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+  #- scope:
+   #   path: ""
+   #   type: posts
+   # values:
+     # layout: single
+     # author_profile: true
+     # read_time: true
+     # comments: # true
+     # share: true
+     # related: true
        # _pages
   - scope:
       path: "_pages"
@@ -400,13 +400,13 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+  #- scope:
+     # path: ""
+      #type: posts
+    #values:
+     # layout: single
+     # author_profile: true
+      #read_time: true
+      #comments: # true
+     ## share: true
+     # related: true
