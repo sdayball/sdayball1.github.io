@@ -134,8 +134,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
-  - Milestone 4 Narrative.md
+  - _.github/ISSUE_TEMPLATE
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
