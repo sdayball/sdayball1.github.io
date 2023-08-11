@@ -8,9 +8,9 @@
 
 
 **Classes Being reviewed**
-CS405
-CS410
-DAT220
+  - CS405
+  - CS410
+  - DAT220
 
 ## My Career plans
 
