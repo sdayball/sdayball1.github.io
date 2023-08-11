@@ -19,4 +19,10 @@ The artifact that is being focused on in this segment of my project is my final 
 - [Artifact 2](DataStructuresAndAlgorithmsEnhancement.html)
 - [Artifact 3](DatabasesEnhancement.html)
 
-<iframe> src= "https://github.com/sdayball/sdayball1.github.io/files/12323903/CS.405.Security.Policy.Sam.Dayball-final.-.CS499.pdf" width="100%" height="600" frameborder="0"></iframe>
+<div id="markdown-container"></div>
+<script src="https://cdn.jsdelivr.net/npm/marked"></script>
+<script>
+  const markdownContent = `...`; // Fetch or provide your Markdown content here
+  const htmlContent = marked(markdownContent);
+  document.getElementById('markdown-container').innerHTML = htmlContent;
+</script>
