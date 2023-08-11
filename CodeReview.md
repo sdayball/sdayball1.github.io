@@ -1,16 +1,5 @@
 # Sam Dayball CS499 ePortfolio
 
-## Introduction
-
-### Software Engineering/Design
-
-
-### Category Two: Algorithms and Data Structures
-
-
-### Category Three: Databases
-
-
 ## Code Review
 
 A code review is a vital part of the software development lifecycle.  Code review involves doing just what the name would imply and reviewing either your own code or code from one of your peers.  This would involve checking for any syntax errors, or looking for functions that were written that may be redundant or any security vulnerabilities such as infinite loops or unrestricted user inputs.  This is a wide range of items to be reviewing for and during the code review it is important to point out any areas where you may question what the functionality is because another important part of the SDLC is to comment your code so that others can be clear on what your code is doing.
