@@ -1,4 +1,10 @@
 # Sam Dayball Official Portfolio
+**Portfolio Contents**
+- [Professional Self-Assessment](index.html)
+- [Code Review](CodeReview.html)
+- [Artifact 1](SoftwareDesignEnhancement.html)
+- [Artifact 2](DataStructuresAndAlgorithmsEnhancement.html)
+- [Artifact 3](DatabasesEnhancement.html)
 
 ## Software Design and Engineering Artifact
 
@@ -12,10 +18,4 @@ The artifact that is being focused on in this segment of my project is my final 
 [CS 405 Security Policy Sam Dayball-final - CS499 .pdf](https://github.com/sdayball/sdayball1.github.io/files/12318294/CS.405.Security.Policy.Sam.Dayball-final.-.CS499.pdf)
 
 
-**Portfolio Links**
-- [Professional Self-Assessment](index.html)
-- [Code Review](CodeReview.html)
-- [Artifact 1](SoftwareDesignEnhancement.html)
-- [Artifact 2](DataStructuresAndAlgorithmsEnhancement.html)
-- [Artifact 3](DatabasesEnhancement.html)
 
