@@ -2,10 +2,10 @@
 **Portfolio Contents**
 - [Professional Self-Assessment](index.html)
 - [Code Review](CodeReview.html)
-- [Artifact 1](SoftwareDesignEnhancement.html)
-- [Artifact 2](DataStructuresAndAlgorithmsEnhancement.html)
-- [Artifact 3](DatabasesEnhancement.html)
-
+- [Software Design Artifact](SoftwareDesignEnhancement.html)
+- [Data Structures and Algorithms Artifact](DataStructuresAndAlgorithmsEnhancement.html)
+- [Databases Artifact](DatabasesEnhancement.html)
+  
 ## Software Design and Engineering Artifact
 
 The artifact that is being focused on in this segment of my project is my final project from by CS405 course.  The project was to complete a new security policy that outlines our greatest threats in coding and to propose new coding principals to adhere to as well as a plan to implement these changes.  Finally the project included creating a PowerPoint presentation in order to convey the new policy to the resto of my organization. I completed this project originally earlier this year in 2023.
