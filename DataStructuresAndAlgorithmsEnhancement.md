@@ -1,4 +1,4 @@
-# Sam Dayball Official ePortfolio
+# Sam Dayball Official Portfolio
 
 ## Artifact 2: Data Structure and Algorithms
 
