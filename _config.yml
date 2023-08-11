@@ -1,4 +1,2 @@
-theme: jekyll-theme-architect
-title: Sam Dayball ePortfolio
-description: My official CS Portfolio
-show_downloads: false
+theme: jekyll-theme-minimal-mistakes
+markdown: kramdown
