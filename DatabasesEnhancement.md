@@ -27,11 +27,11 @@ Display and Interpretation
 
 Linear Regression Models:
 Bivariate Fit of Webstore_Spend By Income
- ![DAT220LINEAR REGRESSION](https://github.com/sdayball/sdayball1.github.io/assets/86495095/cb9ea455-3df0-4efe-b85b-b7a57f499dae)
+ - ![DAT220LINEAR REGRESSION](https://github.com/sdayball/sdayball1.github.io/assets/86495095/cb9ea455-3df0-4efe-b85b-b7a57f499dae)
 
 Logistic Regression Model
 Logistic Fit of WEB_PURCH_YN By WEB_VISITS
-![DAT220LOGISTICREGRESSION](https://github.com/sdayball/sdayball1.github.io/assets/86495095/49b5b03f-35e7-415d-8345-b6def53a9ac1)
+- ![DAT220LOGISTICREGRESSION](https://github.com/sdayball/sdayball1.github.io/assets/86495095/49b5b03f-35e7-415d-8345-b6def53a9ac1)
 
  
 Based on the display of these two regression models, we can quantitatively observe notable trends in webstore purchases. Specifically, it is evident that a significant proportion of our webstore purchases, approximately 60%, originate from customers falling within the income range of forty thousand to seventy thousand dollars per year. This finding strongly suggests that our target audience primarily lies within this income bracket.
@@ -50,12 +50,13 @@ Next Steps
 2.	Encourage Repeat Visits: To foster repeat visits, implementing personalized recommendations, offering loyalty programs, and enhancing the user experience through a user-friendly interface can be effective.
 3.	Target Primary Income Demographic: Identifying our primary income demographic and tailoring marketing efforts specifically to them can maximize conversion rates. Utilizing data analytics and customer segmentation will help in precise targeting.
 Below are all the models I used in measuring this information and the concurrent analysis of all of the data provided.
-Linear Regression Models:![DAT220LINEARANDBIVARIATE](https://github.com/sdayball/sdayball1.github.io/assets/86495095/445b9e16-c9f8-4df8-b3d4-8cc5ecaccb8d)
+Linear Regression Models:
+- ![DAT220LINEARANDBIVARIATE](https://github.com/sdayball/sdayball1.github.io/assets/86495095/445b9e16-c9f8-4df8-b3d4-8cc5ecaccb8d)
 
 
 
 Oneway Analysis of Webstore_Spend By state
- ![DAT220ONEWAYANDLOGISTIC](https://github.com/sdayball/sdayball1.github.io/assets/86495095/83bac9c2-e88e-45a5-be47-d35b2da13211)
+ - ![DAT220ONEWAYANDLOGISTIC](https://github.com/sdayball/sdayball1.github.io/assets/86495095/83bac9c2-e88e-45a5-be47-d35b2da13211)
 
 Whole Model Test
 
@@ -83,7 +84,7 @@ Hierarchical Clustering
 Method = Ward
 Dendrogram
  
-![DAT220DENDO](https://github.com/sdayball/sdayball1.github.io/assets/86495095/f1fa3a33-3c7d-46df-a17c-31f90fbe5b93)
+- ![DAT220DENDO](https://github.com/sdayball/sdayball1.github.io/assets/86495095/f1fa3a33-3c7d-46df-a17c-31f90fbe5b93)
 
 
 
@@ -91,7 +92,7 @@ Dendrogram
 
 Scatterplot Matrix
 
- ![DAT220SCATTER](https://github.com/sdayball/sdayball1.github.io/assets/86495095/dc23642a-3399-4792-b304-faba3245268a)
+ - ![DAT220SCATTER](https://github.com/sdayball/sdayball1.github.io/assets/86495095/dc23642a-3399-4792-b304-faba3245268a)
 
 
 
