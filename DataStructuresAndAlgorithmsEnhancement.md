@@ -1,4 +1,4 @@
-# Kenneth Borges CS499 ePortfolio
+# Sam Dayball Official ePortfolio
 
 ## Enhancement Two: Data Structure and Algorithms
 
