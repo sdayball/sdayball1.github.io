@@ -7,7 +7,7 @@ The artifact that is being focused on in this segment of my project is my final 
 	I did meet the objectives that I planned on in this milestone.  By making these enhancements I was able to demonstrate a security mindset which is evident in my detail surrounding each new coding principal, its security and priority level as well as it’s likelihood of causing a security vulnerability in the future. 
 	By enhancing this artifact I was able to learn that doing a deeper dive into security principals sometimes yields a more foundational level of understanding when it comes to best practices and security vulnerabilities.  I feel like when I originally completed this project I rushed through it a bit and did not fully get to grasp what the automation tools were that I was pitching and by enhancing this I now have learned of new tools that can help mitigate risks and I can bring this knowledge into my professional career by suggesting these tools as potential security enhancements for organizations that do not use anything like them.
  
- <iframe src="https://sdayball.github.io/sdayball1.github.io/CS405SecurityPolicySamDayball-final-CS499.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="https://github.com/sdayball/sdayball1.github.io/CS405SecurityPolicySamDayball-final-CS499.html" width="100%" height="600" frameborder="0"></iframe>
  
 [CS 405 Security Policy Sam Dayball-final - CS499 .pdf](https://github.com/sdayball/sdayball1.github.io/files/12318294/CS.405.Security.Policy.Sam.Dayball-final.-.CS499.pdf)
 
