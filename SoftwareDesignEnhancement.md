@@ -14,5 +14,5 @@ The artifact that is being focused on in this segment of my project is my final 
 - [Professional Self-Assessment](index.html)
 - [Code Review](CodeReview.html)
 - [Artifact 1](SoftwareDesignEnhancement.html)
-- [Artifact 2](DataStructuresandAlgorithmsEnhancement.html)
+- [Artifact 2](DataStructuresAndAlgorithmsEnhancement.html)
 - [Artifact 3](DatabasesEnhancement.html)
