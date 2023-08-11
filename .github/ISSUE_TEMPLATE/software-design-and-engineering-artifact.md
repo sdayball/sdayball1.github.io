@@ -6,4 +6,4 @@ labels: ''
 assignees: ''
 
 ---
-[CS 405 Security Policy Sam Dayball-final - CS499 .pdf](https://github.com/sdayball/sdayball1.github.io/files/12308430/CS.405.Security.Policy.Sam.Dayball-final.-.CS499.pdf)
+<embed src="https://yourusername.github.io/filename.pdf" width="100%" height="850px"/>
