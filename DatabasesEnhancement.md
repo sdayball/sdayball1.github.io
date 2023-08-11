@@ -1,5 +1,12 @@
 # Sam Dayball Official Portfolio
+**Portfolio Contents**
+- [Professional Self-Assessment](index.html)
+- [Code Review](CodeReview.html)
+- [Artifact 1](SoftwareDesignEnhancement.html)
+- [Artifact 2](DataStructuresAndAlgorithmsEnhancement.html)
+- [Artifact 3](DatabasesEnhancement.html)
 
+  
 ## Databases Artifact Description
 Sam Dayball Milestone 4 Narrative
 	The artifact that I have included here was my final project from the course DAT220 and it was a detailed report utilizing different data mining techniques and methods of analyzing and reporting on large amounts of data. The purpose of this project was to help a restaurant chain, Bubba Gump Shrimp, optimize customer engagement and increase new and returning customer flow to the restaurants.  This project was originally completed in December of 2021.  
@@ -95,11 +102,3 @@ Scatterplot Matrix
  - ![DAT220SCATTER](https://github.com/sdayball/sdayball1.github.io/assets/86495095/dc23642a-3399-4792-b304-faba3245268a)
 
 
-
-
-**Portfolio Links**
-- [Professional Self-Assessment](index.html)
-- [Code Review](CodeReview.html)
-- [Artifact 1](SoftwareDesignEnhancement.html)
-- [Artifact 2](DataStructuresAndAlgorithmsEnhancement.html)
-- [Artifact 3](DatabasesEnhancement.html)
