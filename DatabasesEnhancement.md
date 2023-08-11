@@ -2,9 +2,9 @@
 **Portfolio Contents**
 - [Professional Self-Assessment](index.html)
 - [Code Review](CodeReview.html)
-- [Artifact 1](SoftwareDesignEnhancement.html)
-- [Artifact 2](DataStructuresAndAlgorithmsEnhancement.html)
-- [Artifact 3](DatabasesEnhancement.html)
+- [Software Design Artifact](SoftwareDesignEnhancement.html)
+- [Data Structures and Algorithms Artifact](DataStructuresAndAlgorithmsEnhancement.html)
+- [Databases Artifact](DatabasesEnhancement.html)
 
   
 ## Databases Artifact Description
