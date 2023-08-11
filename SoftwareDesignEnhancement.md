@@ -1,4 +1,4 @@
-ed# Sam Dayball Official Portfolio
+# Sam Dayball Official Portfolio
 **Portfolio Contents**
 - [Professional Self-Assessment](index.html)
 - [Code Review](CodeReview.html)
