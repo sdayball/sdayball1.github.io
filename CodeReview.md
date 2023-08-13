@@ -13,5 +13,7 @@ A code review is a vital part of the software development lifecycle.  Code revie
 	This occurs after initial code is written and tested.  This can be done by yourself or you can have a peer review your code with you and provide additional insight.  Ideally this should always be done prior to deploying your code to a live or production environment to avoid any conflicts with live code.
 	Some best practices that I would advocate for include leaving plenty of notes while reviewing. As soon as you see something that should be fixed, corrected or adjusted you should note it immediately.  It is very easy to forget about small things the more you read through code so if you can note them and do so in a way where it stands out from normal code comments this will help you not miss any areas that need to be corrected.  Also, I would recommend doing code review with people you trust to be honest with you. This is important because if people do not want to hurt feelings or step on toes then this could lead to issues where they do not mention something that needs to be fixed or done in a better way for fear of how it may make you feel. On the other side of that I always advocate for being fully honest when reviewing someone else’s code as it does not help anyone learn in the long run if you don’t speak up.
 
+## Video Code Review
 
+https://youtu.be/Pffm2BsdASI
 
