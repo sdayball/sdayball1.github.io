@@ -16,4 +16,4 @@ A code review is a vital part of the software development lifecycle.  Code revie
 ## Video Code Review
 
 https://youtu.be/Pffm2BsdASI
-<iframe width="1280" height="720" src="https://youtu.be/embed/Pffm2BsdASI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://youtube.com/embed/Pffm2BsdASI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
